@@ -750,8 +750,8 @@ background-color:#e5493a;
     top:64px;
     left:590px;
     width: 14%;
-    
-    border:1px solid #363636 ;
+    height: 1px;
+    background-color: #363636 ;
     transform: translateX(-50%);
     transition: all linear .3s;
 }
@@ -1064,9 +1064,9 @@ display: flex;
  position:absolute;
  content: '';
  height: 1px;
- background-color:#363636;
+ background-color:#e5493a;
  top:165px;
- left:150px;
+ left:140px;
  width: 80%;
  transform: translateX(-50%);
 }
